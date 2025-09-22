@@ -14,7 +14,8 @@ A basic real-time chat application built using **Node.js**, **Express**, **Socke
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/eaglemk21/Simple-Chat-App.git
-cd Simple-Chat-App
+git clone https://https://github.com/khushigupta5225/Connect.git
+cd Connect
 npm install
 node server.js
+
